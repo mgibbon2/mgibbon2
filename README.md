@@ -35,3 +35,5 @@ As a vital member of a Scrum team, I actively contributed to the iterative devel
 ## operating-systems
 
 ## programming-with-cs
+
+## scripts
