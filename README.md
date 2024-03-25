@@ -34,6 +34,7 @@ Focused on mobile screen sized resolutions, my team and I implemented the CoinGe
 
 As a vital member of a Scrum team, I actively contributed to the iterative development of a Django-based CRUD web application for market/product display. Integration of the Google Maps API enhanced user experience, and my proficiency in Git ensured a smooth collaborative process with efficient branching and pull requests. Rigorous testing and coverage tools were implemented to guarantee code reliability in future iterations.
 ## operating-systems (C Programming, Makefile Script)
+The code for projects 2 and 3 is not yet imported
 - Implementing Custom Datastructures
 - Kernel Level Threading
 - Makefile Script
