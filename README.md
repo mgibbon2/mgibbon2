@@ -18,6 +18,9 @@ Projects
 ========
 ## coinly (CSS, HTML, TypeScript Programming)
 The code for Coinly is not yet imported from the BitBucket Repository
+
+<img src="coinly-logo.png" width="200" title="hover text" alt="harvestly logo">
+
 - AngularJS Framework
 - CoinGecko API
 - Git/BitBucket
@@ -26,6 +29,7 @@ The code for Coinly is not yet imported from the BitBucket Repository
 
 Focused on mobile screen sized resolutions, my team and I implemented the CoinGecko API to create a stock chart web app tailored for cryptocurrencies. On the frontend we employed the Skeleton framework to aid with screen size responsiveness. Utilizing Angular's component-based systems, we integrated multiple applications into a cohesive project. We ensured secure source control through pull requests on Git and BitBucket.
 ## harvestly (CSS, HTML, Python Programming)
+
 - Django Framework
 - Git/GitHub
 - Google Maps API
