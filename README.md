@@ -2,6 +2,24 @@ About Me
 ========
 Highly motivated college student with strong teamwork skills and a desire to enter the professional world of computer science. Proven ability to collaborate effectively with others and drive success in group projects. Strong work ethic and eagerness to learn and grow in a professional setting. Completed advanced coursework in software engineering, design, requirements, and project management, along with a mathematics minor for enhanced analytical skills. Dedication is reflected in academic pursuits, with a goal-oriented approach that aligns with expectation to graduate in May of 2024, one year early.
 
+Education
+=========
+## Bachelor of Science in Computer Science
+### University of Colorado, Colorado Springs
+I started university education directly after high school. I was very efficient throughout the program, finishing in 3 years, with a mathematics minor and a GPA of 3.79 (in major GPA: 3.90). Having taken numerous software engineering related courses, I earned a specialty in Advanced Software Engineering.
+
+- City, State: Colorado Springs, Colorado
+- Years: 2021-2024
+- Minor: Mathematics
+- GPA: 3.79
+- Specialty: Advanced Software Engineering
+
+## High School Diploma
+### Discovery Canyon Campus High School
+
+- City, State: Colorado Springs, Colorado
+- Years: 2017-2021
+
 Work Experience
 ===============
 ## Teaching Assistant for ‘Data Structures and Algorithms’ and ‘Principles of Computer Science’
@@ -17,7 +35,7 @@ As a teaching assistant, I refined troubleshooting skills, collaborated on Java 
 Projects
 ========
 ## coinly (CSS, HTML, TypeScript Programming)
-The code for Coinly is not yet imported from the BitBucket Repository
+### The code for Coinly is not yet imported from the BitBucket Repository
 
 <img src="coinly-logo.png" width="200" title="hover text" alt="harvestly logo">
 
@@ -38,7 +56,8 @@ Focused on mobile screen sized resolutions, my team and I implemented the CoinGe
 
 As a vital member of a Scrum team, I actively contributed to the iterative development of a Django-based CRUD web application for market/product display. Integration of the Google Maps API enhanced user experience, and my proficiency in Git ensured a smooth collaborative process with efficient branching and pull requests. Rigorous testing and coverage tools were implemented to guarantee code reliability in future iterations.
 ## operating-systems (C Programming, Makefile Script)
-The code for projects 2 and 3 is not yet imported
+### The code for projects 2 and 3 is not yet imported
+
 - Implementing Custom Datastructures
 - Kernel Level Threading
 - Makefile Script
