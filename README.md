@@ -6,7 +6,9 @@ Education
 =========
 ## Bachelor of Science in Computer Science
 ### University of Colorado, Colorado Springs
-I started university education directly after high school. I was very efficient throughout the program, finishing in 3 years, with a mathematics minor and a GPA of 3.79 (in major GPA: 3.90). Having taken numerous software engineering related courses, I earned a specialty in Advanced Software Engineering.
+<img src="uccs-logo.png" height="75" title="hover text" alt="uccs logo">
+
+I started university education directly after graduating from high school. I was very efficient throughout the program, finishing in 3 years, with a mathematics minor and a GPA of 3.79 (in major GPA: 3.90). Having taken numerous software engineering related courses, I earned a specialty in Advanced Software Engineering.
 
 - City, State: Colorado Springs, Colorado
 - Years: 2021-2024
@@ -16,6 +18,7 @@ I started university education directly after high school. I was very efficient 
 
 ## High School Diploma
 ### Discovery Canyon Campus High School
+<img src="dcc-logo.png" height="100" title="hover text" alt="dcc logo">
 
 - City, State: Colorado Springs, Colorado
 - Years: 2017-2021
@@ -37,7 +40,7 @@ Projects
 ## coinly (CSS, HTML, TypeScript Programming)
 ### The code for Coinly is not yet imported from the BitBucket Repository
 
-<img src="coinly-logo.png" width="200" title="hover text" alt="harvestly logo">
+<img src="coinly-logo.png" height="75" title="hover text" alt="coinly logo">
 
 - AngularJS Framework
 - CoinGecko API
