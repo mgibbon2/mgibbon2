@@ -42,7 +42,7 @@ Projects
 
 <img src="coinly-logo.png" height="75" title="hover text" alt="coinly logo">
 
-- AngularJS Framework
+- Angular Framework
 - CoinGecko API
 - Git/BitBucket
 - HTML/CSS
