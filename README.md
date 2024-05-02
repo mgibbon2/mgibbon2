@@ -25,7 +25,7 @@ I started university education directly after graduating from high school. I was
 
 Work Experience
 ===============
-## Teaching Assistant for ‘Data Structures and Algorithms’ and ‘Principles of Computer Science’
+## Teaching Assistant for ‘Data Structures and Algorithms’ and ‘Principles of Computer Science’ (Java Programming)
 - Bug Fixing
 - Communication
 - Teamwork
@@ -33,7 +33,7 @@ Work Experience
 - Troubleshooting
 - Reinforced Foundation
 
-As a teaching assistant, I refined troubleshooting skills, collaborated on Java functionalities, and enhanced time management through rigorous grading. This multifaceted experience deepened my technical expertise and honed essential teamwork, communication, and organizational skills for future endeavors.
+In my role as a teaching assistant, I served as a crucial support for students, offering assistance with troubleshooting, bug fixing, and general problem-solving. Additionally, I undertook the responsibility of grading assignments, ensuring adherence to responsible standards of timeliness and fairness. This experience significantly contributed to the development of my work ethic and time management skills. Moreover, my experience as a TA for Data Structures and Algorithms reinforced my foundational skills in computer science.
 
 Projects
 ========
@@ -59,7 +59,6 @@ Focused on mobile screen sized resolutions, my team and I implemented the CoinGe
 
 As a vital member of a Scrum team, I actively contributed to the iterative development of a Django-based CRUD web application for market/product display. Integration of the Google Maps API enhanced user experience, and my proficiency in Git ensured a smooth collaborative process with efficient branching and pull requests. Rigorous testing and coverage tools were implemented to guarantee code reliability in future iterations.
 ## operating-systems (C Programming, Makefile Script)
-### The code for projects 2 and 3 is not yet imported
 
 - Implementing Custom Datastructures
 - Kernel Level Threading
@@ -80,9 +79,27 @@ Similarly to operating systems, my C# experience consists of three main projects
 
 Project 1 involves the creation of a Battleship game. It includes classes for ships and the game board. The Ship class defines properties such as type, length, and life, along with methods for setting coordinates, checking if the ship is sunk, and incrementing hits. The GameBoard class manages the game board, filling it with empty spaces, enabling cheats, and printing the board with appropriate labels. This project lays the foundation for a Battleship game, implementing essential game logic and board management. 
 
-Project 2 is a Minesweeper game built with Visual Studio UI tools. It features randomly placed mines on a grid, with players uncovering cells without hitting a mine. The game includes functionality for flagging suspected mine locations, revealing adjacent cells, and managing win or lose conditions. The user interface likely incorporates buttons for cells, labels for game information, and other UI elements for interaction. This project demonstrates the integration of game logic with a graphical user interface, making Minesweeper accessible and engaging to players. 
+Project 2 is a Minesweeper game built with Visual Studio UI tools. It features randomly placed mines on a grid, with players uncovering cells without hitting a mine. The game includes functionality for flagging suspected mine locations, revealing adjacent cells, and managing win or lose conditions. The user interface incorporates buttons for cells, labels for game information, and other UI elements for interaction. This project demonstrates the integration of game logic with a graphical user interface, making Minesweeper accessible and engaging to players. 
 
 Project 3 presents a Wordle game interface also using the Visual Studio UI Tools. The WordleWindow class initializes the game window, including the title label and guess button. The game board consists of text boxes for entering guesses, with methods for managing text box focus and changing box colors based on feedback. The game includes logic for guessing words, testing for win or lose conditions, and displaying appropriate messages. Additionally, cheats may be enabled to display the random word to the user. This project showcases the implementation of a word-guessing game with interactive UI elements and game logic integration.
+## wyrm-discord-socket (C# Programming)
+- Socket Connections
+- Developing with Limited Documentation
+- Git/GitHub
+- JSON Parsing
+
+The objective of this project was to design a worm bot, that we called "Wyrm", tasked with extracting messages from a Discord server. Its purpose was to showcase the ease with which data can be gathered from Discord servers. I contributed to this team effort by developing a web socket to interface with the Discord "Gateway" WebSocket. Finding documentation for this project was a significant challenge due to its scarcity. There are some resources on the official [Discord Gateway](https://discord.com/developers/docs/topics/gateway) website. Throughout this project it was important to work from an ethical and legal frame of mind.
+
+The Discord Gateway events are made up of three main parts:
+- OpCode: An integer value indicating the event type.
+- Event Name: A non-mandatory string field that may contain the subevent name.
+- JSON Message: The event's data.
+
+`wyrm-discord-socket/Websocket/DiscordSocketClient.cs` is the file where most of the web socket is implemented.
+
+The socket initiates connections through the Login and Identify stages. Upon receiving a Hello opcode, which includes a heartbeat interval, a new thread is created to send heartbeat responses at that interval. With the connection established, the socket continuously monitors for new opcodes. Upon reception, each opcode is parsed, logged, and ensures that a subscribable delegate can access relevant information to be used else where in the program.
+
+Contained in the repository is a slide deck from my groups' final presentaiton and the C# code relating to the WebSocket.
 ## scripts (Batch Script, Python Script, and Visual Basic Script)
 - Batch Scripting
 - .env File Utilization
