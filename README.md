@@ -1,6 +1,6 @@
 About Me
 ========
-Recently graduated software engineer. Completed a Bachelor of Science degree in Computer Science with an emphasis in Software Engineering and a minor in Mathematics in three years, when the average is 4 years. I have experience in full stack development and implementing testing suites. I also have experience in network related fields such as websockets.
+Recently graduated software engineer. Completed a Bachelor of Science degree in Computer Science with an emphasis in Software Engineering and a minor in Mathematics in three years, when the average is 4 years. I have experience in full stack development and implementing testing suites. I also have experience in network related aspects such as websockets. Extremely profficient in git and other standard Software Engineering procedures.
 
 - Preferred Languages: Java, C, C#, or Python
 - Favorite TV Show: Psych (2006)
