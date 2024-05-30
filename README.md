@@ -1,6 +1,10 @@
 About Me
 ========
-Highly motivated college student with strong teamwork skills and a desire to enter the professional world of computer science. Proven ability to collaborate effectively with others and drive success in group projects. Strong work ethic and eagerness to learn and grow in a professional setting. Completed advanced coursework in software engineering, design, requirements, and project management, along with a mathematics minor for enhanced analytical skills. Dedication is reflected in academic pursuits, with a goal-oriented approach that aligns with expectation to graduate in May of 2024, one year early.
+Recently graduated software engineer. Completed a Bachelor of Science degree in Computer Science with an emphasis in Software Engineering and a minor in Mathematics in three years, when the average is 4 years. I have experience in full stack development and implementing testing suites. I also have experience in network related fields such as websockets.
+
+- Preferred Languages: Java, C, C#, or Python
+- Favorite TV Show: Psych (2006)
+- Favorite Music Artist: Twenty One Pilots
 
 Education
 =========
@@ -8,12 +12,12 @@ Education
 ### University of Colorado, Colorado Springs
 <img src="uccs-logo.png" height="75" title="hover text" alt="uccs logo">
 
-I started university education directly after graduating from high school. I was very efficient throughout the program, finishing in 3 years, with a mathematics minor and a GPA of 3.79 (in major GPA: 3.90). Having taken numerous software engineering related courses, I earned a specialty in Advanced Software Engineering.
+I started university education directly after graduating from high school. I was very efficient throughout the program, finishing in 3 years, with a mathematics minor and a GPA of 3.8 (in major GPA: 3.9). Having taken numerous software engineering related courses, I earned a specialty in Advanced Software Engineering.
 
 - City, State: Colorado Springs, Colorado
 - Years: 2021-2024
 - Minor: Mathematics
-- GPA: 3.79
+- GPA: 3.8
 - Specialty: Advanced Software Engineering
 
 ## High School Diploma
